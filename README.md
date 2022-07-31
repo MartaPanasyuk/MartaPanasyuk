@@ -1,6 +1,6 @@
 # Hello, it's nice to have you here! ✨
 
-My name is Marta and I had just graduated from a Full Stack Web Development Bootcamp in Codaisseur. These 11 intensive course weeks taught me not only about coding, but also how to break down a project and work in a team. Now, I'm willing to enter the job market as a Junior Web Developer!
+My name is Marta and I had just graduated from a Full Stack Web Development Bootcamp in Codaisseur. These 11 intensive course weeks taught me not only about coding, but also how to break down a project and work in a team. Now, I would like to get a job and develop futher as as a Junior Web Developer!
  
 Want to know about my previous experiences? 
 Check my profile here: 
