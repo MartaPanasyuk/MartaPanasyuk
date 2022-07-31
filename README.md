@@ -22,7 +22,9 @@ Check my profile here:
 ## 💻 Projects
 
 ### CAT Radar
-A full stack app where 
+Dedicated to all the kitters sneaking around the globe :)
+Passing by a cute fluffy cat? Take a photo and upload it on CAT Radar to pin point it on the city map. Wanna go on a cat hunt? Find all the nearby kittos added by users and follow the route. Lucky enough to spot one? Add your photo to cat's profile and rate it.
+Built on JS/React/Redux/PostgreSQL/Leafleat.
 
 <a href="https://github.com/MartaPanasyuk/Cats-in-Amsterdam_Front-End">client</a> | <a href="https://github.com/MartaPanasyuk/Cats-in-Amsterdam_Back-End">server</a>
 
