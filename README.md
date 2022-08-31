@@ -28,6 +28,12 @@ Built on JS/React/Redux/PostgreSQL/Leafleat.
 
 <a href="https://github.com/MartaPanasyuk/Cats-in-Amsterdam_Front-End">client</a> | <a href="https://github.com/MartaPanasyuk/Cats-in-Amsterdam_Back-End">server</a>
 
+### Get Random Pokemon
+
+Built on JS/React/TypeScript 
+
+<a href="https://github.com/MartaPanasyuk/GetRandomPokemon">client</a>
+
 <!--
 **MartaPanasyuk/MartaPanasyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
