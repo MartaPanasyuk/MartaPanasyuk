@@ -30,7 +30,7 @@ Built on JS/React/Redux/PostgreSQL/Leafleat.
 
 ### Get Random Pokemon
 
-Built on JS/React/TypeScript 
+A small React page fully written on TypeScript
 
 <a href="https://github.com/MartaPanasyuk/GetRandomPokemon">client</a>
 
